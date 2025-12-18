@@ -1,2 +1,5 @@
-# Data-Science-Project
-A data science project to analyze and visualize water quality data using Python. Includes data cleaning, exploratory data analysis, visualizations, and basic machine learning (regression &amp; classification) to assess stats of a company
+#DATA ANALYSIS
+   •  Processed and refined the Chicago employee salary dataset (duplicates, column cleanup, datatype fixes).
+   •  Performed exploratory data analysis including pie charts, bar charts, histograms, boxplots, heatmaps, and                       
+  •  Conducted detailed statistical analysis and detected outliers/inliers using IQR for salary and hourly wages.
+     Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn
